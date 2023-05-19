@@ -59,7 +59,6 @@ class Gale_Shapley:
         else:
             for i in range(len(matching)):
                 formatted_matching[matching[i] + 1] = i + 1
-        print(formatted_matching)
         return formatted_matching
 
 if __name__ == "__main__":

@@ -1,6 +1,6 @@
 # Market_Design
 
-Coding up some of the algorithms from Stanford's CS 136
+Coding up some of the algorithms from Stanford's Econ 136
 
 ## Gale Shapley
 

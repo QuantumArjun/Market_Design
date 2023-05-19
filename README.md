@@ -36,5 +36,5 @@ Here is the format for the preferences:
 ```
 
 To run Deferred Acceptance (also known as Gale-Shapley), run the following command to run the left proposing DA algorithm:
-'python main.py --algorithm DA --proposing left'
+`python main.py --algorithm DA --proposing left`
   

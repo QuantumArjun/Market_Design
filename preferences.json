@@ -1,26 +1,40 @@
 {
-    "left": {
-        "1": {
-            "ranking": "1, 2, 3"
+    "Team Preferences": {
+        "Oompa Loompa": {
+            "ranking": "Salt Of the Earth, Saul to Paul, Christ Image, The Image, Bad Image"
         },
-        "2": {
-            "ranking": "1, 2, 3"
+        "Defenders of the Faith": {
+            "ranking": "Salt Of the Earth, Saul to Paul, Christ Image, The Image, Bad Image"
         },
-        "3": {
-            "ranking": "1, 2, 3"
+        "Black Panthers": {
+            "ranking": "Salt Of the Earth, Saul to Paul, Christ Image, The Image, Bad Image"
+        },
+        "White Panthers": {
+            "ranking": "Salt Of the Earth, Saul to Paul, Christ Image, The Image, Bad Image"
+        },
+        "Red Panthers": {
+            "ranking": "Salt Of the Earth, Saul to Paul, Christ Image, The Image, Bad Image"
+        },
+        "Orange Panthers": {
+            "ranking": "Salt Of the Earth, Saul to Paul, Christ Image, The Image, Bad Image"
         }
     },
   
-    "right": {
-        "1": {
-            "ranking": "1, 2, 3"
+    "Judge Preferences": {
+        "Salt Of the Earth": {
+            "ranking": "Oompa Loompa, Defenders of the Faith, Black Panthers, White Panthers, Red Panthers, Orange Panthers"
           },
-        "2": {
-            "ranking": "1, 2, 3"
+        "Saul to Paul": {
+            "ranking": "Oompa Loompa, Defenders of the Faith, Black Panthers, White Panthers, Red Panthers, Orange Panthers"
         },
-        "3": {
-            "ranking": "1, 2, 3"
+        "Christ Image": {
+            "ranking": "Oompa Loompa, Defenders of the Faith, Black Panthers, White Panthers, Red Panthers, Orange Panthers"
+        },
+        "The Image": {
+            "ranking": "Oompa Loompa, Defenders of the Faith, Black Panthers, White Panthers, Red Panthers, Orange Panthers"
+        },
+        "Bad Image": {
+            "ranking": "Oompa Loompa, Defenders of the Faith, Black Panthers, White Panthers, Red Panthers, Orange Panthers"
         }
   }
 }
-  

@@ -1,39 +1,36 @@
 {
     "Team Preferences": {
         "Oompa Loompa": {
-            "ranking": "Salt Of the Earth, Saul to Paul, Christ Image, The Image, Bad Image"
+            "ranking": "Salt Of the Earth, Saul to Paul, Christ Image, The Image"
         },
         "Defenders of the Faith": {
-            "ranking": "Salt Of the Earth, Saul to Paul, Christ Image, The Image, Bad Image"
+            "ranking": "Salt Of the Earth, Saul to Paul, Christ Image, The Image"
         },
         "Black Panthers": {
-            "ranking": "Salt Of the Earth, Saul to Paul, Christ Image, The Image, Bad Image"
+            "ranking": "Salt Of the Earth, Saul to Paul, Christ Image, The Image"
         },
         "White Panthers": {
-            "ranking": "Salt Of the Earth, Saul to Paul, Christ Image, The Image, Bad Image"
+            "ranking": "Salt Of the Earth, Saul to Paul, Christ Image, The Image"
         },
         "Red Panthers": {
-            "ranking": "Salt Of the Earth, Saul to Paul, Christ Image, The Image, Bad Image"
+            "ranking": "Salt Of the Earth, Saul to Paul, Christ Image, The Image"
         },
         "Orange Panthers": {
-            "ranking": "Salt Of the Earth, Saul to Paul, Christ Image, The Image, Bad Image"
+            "ranking": "Saul to Paul, Salt Of the Earth, Christ Image, The Image"
         }
     },
   
     "Judge Preferences": {
         "Salt Of the Earth": {
-            "ranking": "Oompa Loompa, Defenders of the Faith, Black Panthers, White Panthers, Red Panthers, Orange Panthers"
+            "ranking": "Defenders of the Faith, Oompa Loompa, Black Panthers, White Panthers, Red Panthers, Orange Panthers"
           },
         "Saul to Paul": {
-            "ranking": "Oompa Loompa, Defenders of the Faith, Black Panthers, White Panthers, Red Panthers, Orange Panthers"
+            "ranking": "Orange Panthers, Oompa Loompa, Defenders of the Faith, Black Panthers, White Panthers, Red Panthers"
         },
         "Christ Image": {
-            "ranking": "Oompa Loompa, Defenders of the Faith, Black Panthers, White Panthers, Red Panthers, Orange Panthers"
+            "ranking": "Defenders of the Faith, Oompa Loompa, Black Panthers, White Panthers, Red Panthers, Orange Panthers"
         },
         "The Image": {
-            "ranking": "Oompa Loompa, Defenders of the Faith, Black Panthers, White Panthers, Red Panthers, Orange Panthers"
-        },
-        "Bad Image": {
             "ranking": "Oompa Loompa, Defenders of the Faith, Black Panthers, White Panthers, Red Panthers, Orange Panthers"
         }
   }

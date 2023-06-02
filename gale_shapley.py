@@ -5,7 +5,6 @@ class Gale_Shapley:
         self.left_preferences = preferences["left"]
         self.right_preferences = preferences["right"]
         self.num_agents = len(preferences["left"].keys())
-        num_teams = len(preferences["left"].keys())
     
     def match(self, type="left"):
         proposing_prefs = None

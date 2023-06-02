@@ -36,13 +36,14 @@ class Processor:
 
     def remove_winners(self, winners):
         # Zero indexing
-        winners = {k-1: v-1 for k, v in winners.items()}
-        for award, winner in winners.items():
+        winners = {k-1: [v-1 for v in vs] for k, vs in winners.items()}
+        for winner, awards  in winners.items():
             # Put award as last priority for winner
-            award_ranking = self.data['left'][winner]
-            winner_ranking = self.data['left'][award]
-            self.data['left'][winner] = [x for x in award_ranking if x != award] + [award]
-            self.data['right'][award] = [x for x in winner_ranking if x != winner] + [winner]
+            for award in awards:
+                award_ranking = self.data['left'][winner]
+                winner_ranking = self.data['right'][award]
+                self.data['left'][winner] = [x for x in award_ranking if x != award] # + [award]
+                self.data['right'][award] = [x for x in winner_ranking if x != winner] # + [winner]
     
     def get_data(self):
         return self.data
